@@ -1,3 +1,5 @@
 satori-core
 satori-imager
 satori-extensions
+satori-differ
+satori-remote

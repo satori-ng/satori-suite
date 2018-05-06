@@ -1,0 +1,15 @@
+[submodule "satori-core"]
+	path = satori-core
+	url = https://github.com/satori-ng/satori-core
+[submodule "satori-imager"]
+	path = satori-imager
+	url = https://github.com/satori-ng/satori-imager
+[submodule "satori-extensions"]
+	path = satori-extensions
+	url = https://github.com/satori-ng/satori-extensions
+[submodule "satori-differ"]
+	path = satori-differ
+	url = https://github.com/satori-ng/satori-differ
+[submodule "satori-remote"]
+	path = satori-remote
+	url = https://github.com/satori-ng/satori-remote
